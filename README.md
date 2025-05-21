@@ -1,7 +1,5 @@
-## Hi there 👋
-
-
-<img src="https://media.licdn.com/dms/image/D5616AQF7uZ4N3t8lJw/profile-displaybackgroundimage-shrink_350_1400/0/1716137739096?e=1721865600&v=beta&t=3zYkT7d4qJvWnP8h3J6i3Q2w7nF2x3X9m8g0k5RzVw8" alt="Banner" width="100%" />
+##Hi There!
+<img src="[https://media.licdn.com/dms/image/D5616AQF7uZ4N3t8lJw/profile-displaybackgroundimage-shrink_350_1400/0/1716137739096?e=1721865600&v=beta&t=3zYkT7d4qJvWnP8h3J6i3Q2w7nF2x3X9m8g0k5RzVw8](https://media.licdn.com/dms/image/v2/D5616AQE0epLWrWrpJA/profile-displaybackgroundimage-shrink_350_1400/B56ZY3EArXHQAY-/0/1744680521031?e=1753315200&v=beta&t=5deRcBfOZasfTRSfva4Lq5x4vaUuJOBx7VHo3NG-ii8)" alt="Banner" width="100%" />
 
 # Hi there, I'm Satya 👋
 
@@ -22,9 +20,12 @@ I believe learning is a continuous journey, and I thrive in environments where e
 
 ---
 
-## 🎓 Education
+## 📫 Contact Me
 
-- Student at MLRIT, Hyderabad, India
+- **Email:** [satyavinay0527@gmail.com](mailto:satyavinay0527@gmail.com)
+- **LinkedIn:** [satya-durga-vinay-damarasing](https://www.linkedin.com/in/satya-durga-vinay-damarasing-03ba41278/)
+- **Instagram:** [@aytasxx](https://www.instagram.com/aytasxx)
+- **Portfolio:** (Coming soon!)
 
 ---
 
@@ -58,32 +59,22 @@ I believe learning is a continuous journey, and I thrive in environments where e
 
 ---
 
+## 🎓 Education
+
+- Student at MLRIT, Hyderabad, India
+
+---
+
+## 🌐 Languages I Speak
+
+- English, Telugu, Hindi, Spanish
+
+---
+
 ## 🎵 Fun Fact
 
 - I like music
 
 ---
 
-## 🌐 Languages
-
-- English, Telugu, Hindi, Spanish
-
----
-
-## 📫 Contact Me
-
-- Email: [satyavinay0527@gmail.com](mailto:satyavinay0527@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/satya-durga-vinay-damarasing-03ba41278/)
-- [Instagram](https://www.instagram.com/aytasxx)
-- [Portfolio]()
-
----
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=satya1844&show_icons=true&theme=radical)
-
-<!-- Use Poppins font if available -->
-<style>
-body {
-    font-family: 'Poppins', sans-serif;
-}
-</style>
