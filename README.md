@@ -1,16 +1,89 @@
 ## Hi there 👋
 
-<!--
-**satya1844/satya1844** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<img src="https://media.licdn.com/dms/image/D5616AQF7uZ4N3t8lJw/profile-displaybackgroundimage-shrink_350_1400/0/1716137739096?e=1721865600&v=beta&t=3zYkT7d4qJvWnP8h3J6i3Q2w7nF2x3X9m8g0k5RzVw8" alt="Banner" width="100%" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hi there, I'm Satya 👋
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/satya-durga-vinay-damarasing-03ba41278/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-website-green)]()
+[![Instagram](https://img.shields.io/badge/Instagram-pink?logo=instagram)]()
+![Visitor Badge](https://komarev.com/ghpvc/?username=satya1844&style=flat&color=blue)
+
+---
+
+## 📝 About Me
+
+I’m a Computer Science undergraduate driven by curiosity and a passion for turning ideas into impactful solutions. I’m always exploring how technology can be applied creatively to solve real-world problems—whether through thoughtful design, intuitive user experiences, or smart, scalable systems.
+
+With a strong foundation in front-end development and hands-on experience in technologies like React, Firebase, and JavaScript, I enjoy building user-centric products that are both functional and engaging. I’m currently expanding my understanding of data structures, algorithms, and machine learning to strengthen my problem-solving capabilities.
+
+I believe learning is a continuous journey, and I thrive in environments where experimentation, collaboration, and innovation intersect. I’m always open to opportunities that challenge me to grow and contribute meaningfully.
+
+---
+
+## 🎓 Education
+
+- Student at MLRIT, Hyderabad, India
+
+---
+
+## 🛠️ Skills
+
+**Languages:**  
+![C](https://img.shields.io/badge/-C-00599C?logo=c) 
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B) 
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python) 
+![Java](https://img.shields.io/badge/-Java-007396?logo=java) 
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql) 
+![Oracle](https://img.shields.io/badge/-Oracle-F80000?logo=oracle)
+
+**Web & Frameworks:**  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5) 
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3) 
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript) 
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js)
+
+**Design & Tools:**  
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma)
+
+---
+
+## 📂 My Public Projects
+
+[**View all my public repositories**](https://github.com/satya1844?tab=repositories)
+
+---
+
+## 🎵 Fun Fact
+
+- I like music
+
+---
+
+## 🌐 Languages
+
+- English, Telugu, Hindi, Spanish
+
+---
+
+## 📫 Contact Me
+
+- Email: [satyavinay0527@gmail.com](mailto:satyavinay0527@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/satya-durga-vinay-damarasing-03ba41278/)
+- [Instagram](https://www.instagram.com/aytasxx)
+- [Portfolio]()
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=satya1844&show_icons=true&theme=radical)
+
+<!-- Use Poppins font if available -->
+<style>
+body {
+    font-family: 'Poppins', sans-serif;
+}
+</style>
