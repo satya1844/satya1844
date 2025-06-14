@@ -1,5 +1,3 @@
-##Hi There!
-<img src="[https://media.licdn.com/dms/image/D5616AQF7uZ4N3t8lJw/profile-displaybackgroundimage-shrink_350_1400/0/1716137739096?e=1721865600&v=beta&t=3zYkT7d4qJvWnP8h3J6i3Q2w7nF2x3X9m8g0k5RzVw8](https://media.licdn.com/dms/image/v2/D5616AQE0epLWrWrpJA/profile-displaybackgroundimage-shrink_350_1400/B56ZY3EArXHQAY-/0/1744680521031?e=1753315200&v=beta&t=5deRcBfOZasfTRSfva4Lq5x4vaUuJOBx7VHo3NG-ii8)" alt="Banner" width="100%" />
 
 # Hi there, I'm Satya 👋
 
