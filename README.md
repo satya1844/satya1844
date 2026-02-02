@@ -1,10 +1,12 @@
 
 # Hi there, I'm Satya 👋
+<img src="./profile.svg" alt="Satya profile" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/satya-durga-vinay-damarasing-03ba41278/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-website-green)]()
 [![Instagram](https://img.shields.io/badge/Instagram-pink?logo=instagram)]()
 ![Visitor Badge](https://komarev.com/ghpvc/?username=satya1844&style=flat&color=blue)
+
 
 ---
 
