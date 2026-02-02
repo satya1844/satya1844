@@ -1,6 +1,10 @@
 
 # Hi there, I'm Satya 👋
 <img src="./profile.svg" alt="Satya profile" />
+<p align="center">
+  <img src="./profile.svg" width="480" alt="Profile"/>
+  <img src="./ascii-art.png" width="300" alt="ASCII portrait"/>
+</p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/satya-durga-vinay-damarasing-03ba41278/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-website-green)]()
