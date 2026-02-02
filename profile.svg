@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="980px" height="520px"
+     font-family="Consolas, monospace" font-size="16px">
+
+<style>
+.key { fill: #ffa657; }
+.value { fill: #a5d6ff; }
+.cc { fill: #616e7f; }
+text { white-space: pre; }
+</style>
+
+<rect x="0" y="0" rx="15" ry="15" width="980" height="520" fill="#161b22"/>
+
+<text x="20" y="35" fill="#c9d1d9">
+satya@vinay
+────────────────────────────────────────────────────────────
+</text>
+
+<text x="20" y="70" fill="#c9d1d9">
+<tspan class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">Windows 11, Linux, Android</tspan>
+<tspan x="20" y="95" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">BTech CSE (3rd Year)</tspan>
+<tspan x="20" y="120" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ....................... </tspan><tspan class="value">MLR Institute of Technology</tspan>
+<tspan x="20" y="145" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">Computer Science Undergraduate</tspan>
+<tspan x="20" y="170" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">VS Code, IntelliJ IDEA</tspan>
+
+<tspan x="20" y="210" class="cc">. </tspan><tspan class="key">Languages.Programming</tspan>:<tspan class="cc"> ... </tspan><tspan class="value">C, C++, Java, Python, JS, TS</tspan>
+<tspan x="20" y="235" class="cc">. </tspan><tspan class="key">Languages.Web</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">HTML, CSS, Tailwind, React, Next.js</tspan>
+<tspan x="20" y="260" class="cc">. </tspan><tspan class="key">Languages.Data</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">SQL, Oracle, Firebase</tspan>
+
+<tspan x="20" y="300" class="cc">. </tspan><tspan class="key">Interests</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">AI Systems, Web Platforms, UX</tspan>
+<tspan x="20" y="325" class="cc">. </tspan><tspan class="key">Current Focus</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">DSA, Machine Learning, Scalability</tspan>
+
+<tspan x="20" y="365">
+- Contact
+────────────────────────────────────────────────────────────
+</tspan>
+
+<tspan x="20" y="395" class="cc">. </tspan><tspan class="key">Email</tspan>:<tspan class="cc"> .......................... </tspan><tspan class="value">satyavinay0527@gmail.com</tspan>
+<tspan x="20" y="420" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">satya-durga-vinay-damarasing</tspan>
+<tspan x="20" y="445" class="cc">. </tspan><tspan class="key">GitHub</tspan>:<tspan class="cc"> .......................... </tspan><tspan class="value">satya1844</tspan>
+
+<tspan x="20" y="485">
+"Building systems that turn ideas into working software."
+</tspan>
+</text>
+</svg>
